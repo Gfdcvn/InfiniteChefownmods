@@ -18,7 +18,19 @@ addIngredient("rhubarb_juice",{
 });
 addIngredient("pumpkin_juice",{
     type:"liquid",
-    color:"#E34253",
+    color:"#e4a752",
+});
+addIngredient("red_food_coloring",{
+    type:"liquid",
+    color:"#ff4646",
+});
+addIngredient("blue_food_coloring",{
+    type:"liquid",
+    color:"#87c7ff",
+});
+addIngredient("green_food_coloring",{
+    type:"liquid",
+    color:"#c2ffd3",
 });
 
 
@@ -27,3 +39,4 @@ addRecipe("hibiscus_extract+honey+ice_cube","Hibiscus Iced Tea");
 addRecipe("carrot_juice+ginger_root+garlic+broth+salt","Ginger Carrot Soup");
 addRecipe("rhubarb_juice+apple+peach+honey","Rhubarb Smoothie");
 addRecipe("pumpkin_juice+salt+black_pepper+pepper","Rhubarb Smoothie");
+addRecipe("aloe_water+red_food_coloring+sugar","Red Aloe Juice");
